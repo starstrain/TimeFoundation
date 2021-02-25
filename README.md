@@ -1,2 +1,2 @@
 # TimeFoundation
-https://www.timefoundation.net
+Time Foundation
